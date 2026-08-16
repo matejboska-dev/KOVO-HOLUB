@@ -1,0 +1,45 @@
+/*
+    Theme Name: JLM Theme
+    Description: JLM Theme by Studio Form
+    Author: Studio Form
+    Author URI: https://form-digital.com
+    Text Domain: jlm-theme
+    Tested up to: 6.4
+    Requires PHP: 7.4 
+    Version: 1.03.29.01
+*/
+
+@import url('app.css');
+
+/* IE Hack */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	
+}
+
+input.error, textarea.error {
+    border: 1px solid !important;
+    border-color: #f00 !important;
+}
+
+select.error {
+    border: 1px solid !important;
+    border-color: #f00 !important;
+}
+
+input.error + label .checkbox {
+    border: 1px solid !important;
+    border-color: #f00 !important;
+}
+
+.contactForm__radiogroup-item input.error + label {
+    border: 1px solid !important;
+    border-color: #f00 !important;
+}
+
+.grecaptcha-badge {
+    display: none;
+}
+
+.d-none {
+    display: none !important;
+}

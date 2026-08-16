@@ -1,0 +1,417 @@
+KOVO-HOLUB Nepomuk s.r.o. — SEZNAM URL ADRES OBRÁZKŮ
+Zdroj: www.kovo-holub.cz (crawl 16.8.2026)
+Pozn.: Obrázky jsou generovány přes image.php?nid=13492&oid=XXXXX&width=YYY — parametr width lze
+měnit/odebrat pro jiné rozlišení. Doporučuji všechny obrázky stáhnout a znovu zoptimalizovat
+pro nový web (komprese, WebP, konzistentní poměry stran) — kvalita/rozlišení originálů je nejistá.
+
+======================================================================
+LOGO A ZÁKLADNÍ PRVKY (na každé stránce)
+======================================================================
+Logo firmy:
+https://www.kovo-holub.cz/image.php?nid=13492&oid=7930152
+
+Ikona telefon:
+https://www.kovo-holub.cz/file.php?nid=13492&oid=7930201
+
+Ikona Facebook:
+https://www.kovo-holub.cz/file.php?nid=13492&oid=7930210
+
+Ikona YouTube:
+https://www.kovo-holub.cz/file.php?nid=13492&oid=7930216
+
+Certifikát TÜV (logo v patičce):
+https://www.kovo-holub.cz/image.php?nid=13492&oid=7940412
+
+Vlajky jazyků (pravděpodobně nepotřeba v redesignu, pokud nezůstane multijazyčnost):
+https://www.kovo-holub.cz/img/lang_cs.png
+https://www.kovo-holub.cz/img/lang_en.png
+https://www.kovo-holub.cz/img/lang_de.png
+
+
+======================================================================
+HOMEPAGE (/) — fotky u úvodních boxů Kontejnery / Nástavby / Kovovýroba
+======================================================================
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4341660&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4341661&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4336559&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4336361&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4336366&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4336363&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4336368&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4107222&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4107224&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4107232&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4107262&width=700
+
+
+======================================================================
+O NÁS (/o-nas)
+======================================================================
+Nemá vlastní unikátní fotky mimo logo/certifikát — prostor pro nové fotky
+týmu, výrobní haly, historie firmy (doporučeno pořídit nové/použít
+fotky z výroby níže).
+
+
+======================================================================
+REFERENCE (/reference) — loga/zmínky klientů
+======================================================================
+Stránka obsahuje textový seznam přes 20 klientů (viz copywriting dokument),
+bez samostatných log v HTML výpisu. Pokud klient má loga partnerů/klientů,
+je třeba dohledat zvlášť nebo požádat o zaslání.
+
+REFERENCE — FOTOGALERIE REALIZACÍ (/reference/fotografie-nasich-realizaci...)
+Poznámka: Tato podstránka je pravděpodobně JS/lightbox galerie a nástroj
+nedokázal vytáhnout konkrétní fotky realizací (vracel jen standardní
+logo/ikony). Doporučuji projít ručně v prohlížeči nebo požádat klienta
+o exportní přístup do administrace webu (Antee/IPO redakční systém) —
+tam budou originální fotky ve vyšším rozlišení a bez nutnosti scrapování.
+
+
+======================================================================
+VÝROBA / KONTEJNERY (/kontejnery) — hlavní přehled
+======================================================================
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4111487&width=900
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680574&width=318&height=239
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4288925&width=318&height=179
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6694566&width=318&height=236
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138734&width=318&height=239
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5241080&width=318&height=239
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138835&width=318&height=239
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586626&width=318&height=239
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138747&width=318&height=239
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138199&width=318&height=239
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138202&width=318&height=239
+
+--- Nosiče kontejnerů (podstránka, cca 17 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5241080
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5241082
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690220
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138085
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138086
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138087
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138088
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138753
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138752
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138090
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138089
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138091
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138092
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138093
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138094
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138095
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138096
+
+--- Speciální kontejnery (podstránka, cca 61 fotek — rozsah ID) ---
+OID rozsahy (dosaď do vzorce https://www.kovo-holub.cz/image.php?nid=13492&oid=XXXXX):
+6680690-6680699, 5586623-5586628, 4690101, 4512674-4512676, 4377012-4377014,
+4690151, 4336550-4336557, 4336355, 4287844-4287846, 4138140-4138163, 4138201,
+4138248-4138265, 4138802, 4269332, 4690072-4690074, 5050561-5050565, 5050581-5050582
+
+--- Traktorové nosiče (podstránka) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138195&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138196&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138197&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138198&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138199&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680715&width=700
+
+--- Velkoobjemové kontejnery (podstránka, cca 31 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690126&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4341655&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4341656&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4341659&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138202&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138203&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138204&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138205&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138206&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138208&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138209&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138210&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138211&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138212&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138220&width=267
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138238&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138710&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138711&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138712&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138713&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138714&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138715&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138716&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138717&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138718&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138719&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138720&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138721&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138722&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690077&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690135&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586648&width=700
+
+--- Kontejnery se střechou (podstránka, cca 20 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4391432&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138723&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138724&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138725&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138726&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138727&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138728&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138729&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138730&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138731&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138732&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138733&width=525
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138734&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138735&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138736&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138737&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138738&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138739&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138740&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690254&width=700
+
+--- Termokontejnery (podstránka) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138742&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138750&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138743&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138744&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138745&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138746&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138747&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138748&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138751&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138754&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138755&width=700
+
+--- Kontejnery hák 1000mm (podstránka, desítky fotek — rozsah ID) ---
+OID rozsahy: 6848324, 6848323, 6848322, 6848319, 6848321, 6848320, 6848318,
+6848315, 6848316, 6848317, 6789905, 6789908, 6777036-6777045, 6694566-6694571,
+6680724, 6680726, 6680736, 6680738, 6680740-6680743, 6585523-6585530, 6585534,
+6585539, 4690133-4690174, 4515467-4515469, 4512681-4512683, 4483043-4483045,
+4424643-4424704, 4418243, 4418250, 4376918, 4376920, 4288946-4288947,
+4138757-4138801, 5050398-5050547, 5586637
+
+--- Abroll kontejnery (podstránka, cca 80 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6848415&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6848414&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776887&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776888&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776889&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776891&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776894&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776896&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776895&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680574&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680579&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680576&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680588&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680590&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680593&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680595&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4704641&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4704639&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690137&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690095&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690020&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690019&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690021&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4515464&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4515462&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4515465&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4515463&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4515466&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4512673&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4512672&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4512671&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4483038&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4483033&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4483036&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4424628&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4424630&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4424632&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4424633&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4391431&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4376914&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4376915&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4290180&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138803&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138804&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138805&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138806&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138807&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138808&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138809&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138810&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138811&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138812&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138813&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138814&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138815&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138816&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138817&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138818&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138819&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138820&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138821&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138823&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138824&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138825&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138826&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138827&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138828&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138829&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138830&width=600
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4483034&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5050555&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5050557&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5050558&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5050559&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5050560&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586643&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586644&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680564&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680565&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680566&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680567&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680570&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680571&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680582&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6776892&width=700
+
+--- Řetězové kontejnery (podstránka, 7 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138832&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138833&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138834&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138835&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4138836&width=525
+
+--- Kontejnery 1340mm (podstránka, 3 fotky) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4288925&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4515459&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4515460&width=700
+
+
+======================================================================
+VÝROBA / NÁSTAVBY NA NÁKLADNÍ AUTOMOBILY (/nastavby-na-nakladni-automobily)
+======================================================================
+Náhledové fotky kategorií na hlavní stránce nástaveb:
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4157074&width=318&height=239 (Opravy)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4157036&width=318&height=239 (Nástavby speciální)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680460&width=318&height=236 (Nástavby sklápěcí)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777066&width=318&height=236 (Skříňové nástavby)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680366&width=318&height=236 (Nástavby valníkové plachtové)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4156945&width=318&height=239 (Nástavby valníkové)
+
+--- Nástavby valníkové (podstránka, cca 21 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5241066&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5241068&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690232&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4247647&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4247650&width=700
+
+--- Nástavby valníkové plachtové (podstránka, cca 63 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680366&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680365&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680364&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680363&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680362&width=700
+
+--- Skříňové nástavby (podstránka, cca 42 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777066&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777063&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777068&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777067&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4512679&width=525
+
+--- Nástavby sklápěcí (podstránka, cca 23 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680455&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680457&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680456&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680454&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680458&width=700
+
+--- Nástavby speciální (podstránka, cca 34 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6792061&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6792058&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690219&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4336378&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4336376&width=700
+
+--- Opravy (podstránka, cca 51 fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586524&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586525&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586526&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586528&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=5586536&width=700
+
+
+======================================================================
+VÝROBA / KOVOVÝROBA (/kovovyroba)
+======================================================================
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680850&width=318&height=236 (náhled Kovovýroba)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777105&width=318&height=236 (Plazmový stroj Vanad)
+
+--- Nami realizované zakázky v kovovýrobě (podstránka, cca 155+ fotek) ---
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680850&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680849&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6680848&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690144&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4690145&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4512684&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4377044&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4377040&width=700
+Pozn.: Galerie je rozsáhlá (150+ fotek) — doporučeno vybrat 8-12 nejlepších
+záběrů ručně z administrace webu, ne stahovat vše.
+
+
+======================================================================
+STROJNÍ VYBAVENÍ (/strojni-vybaveni)
+======================================================================
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777105&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777112&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=6777107&width=519
+https://www.kovo-holub.cz/image.php?nid=13492&oid=12783564&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=12783570&width=700
+https://www.kovo-holub.cz/image.php?nid=13492&oid=12783616&width=700
+
+
+======================================================================
+CERTIFIKÁTY (/certifikaty)
+======================================================================
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4127553&width=495 (ISO 9001)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4127554&width=495 (ISO 9001)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4127556&width=495 (řízení výroby)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4127566&width=495 (vizuální kontrola)
+https://www.kovo-holub.cz/image.php?nid=13492&oid=4696304&width=495 (montáž tažného zařízení)
+
+
+======================================================================
+AKTUALITY (/aktuality) — fotka u novinky o pásové pile
+======================================================================
+Fotka pásové pily Pegas 300x320 SHI-LR (soubor "IMG_7901.jpg" v CMS,
+přímé URL se nepodařilo dohledat automatizovaně — nutno stáhnout ručně
+z administrace webu nebo z konkrétní aktuality).
+
+
+======================================================================
+POZNÁMKY PRO DESIGNÉRA
+======================================================================
+1. VŠECHNY obrázky výše jsou nízkého až středního rozlišení (typicky
+   max width=700-900px) — pro moderní web (retina displeje, velké hero
+   sekce) budou působit rozmazaně. Doporučuji požádat klienta o přístup
+   do CMS (redakční systém IPO od Antee) nebo přímo o zip s originály
+   fotek ve vyšším rozlišení.
+2. Klient má stovky produktových fotek roztříděných do podkategorií
+   kontejnerů a nástaveb — ideální pro filtrovatelnou galerii/portfolio
+   sekci na novém webu, ale NENÍ nutné/vhodné přenášet všechny — vybrat
+   nejlepší 5-10 z každé kategorie.
+3. Galerie "Fotografie našich realizací" (/reference) se nepodařilo
+   plně proscrapovat (pravděpodobně JS lightbox) — projít ručně.
+4. Pro Facebook sekci na homepage (viz copywriting dokument) doporučuji
+   načítat obsah přímo přes Facebook Page Plugin / SDK, nikoli stahovat
+   statické obrázky z FB stránky https://www.facebook.com/kovoholub —
+   ty se navíc mění průběžně s novými příspěvky.
+5. Chybí: fotky exteriéru/interiéru výrobní haly, fotky týmu/zaměstnanců,
+   "za scénou" fotky z provozu — vhodné doplnit novým fotografováním,
+   zvlášť pro sekce O nás a Kariéra, kde současný web nemá žádné obrázky.
