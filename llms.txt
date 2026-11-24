@@ -1,0 +1,34 @@
+# KOVO-HOLUB Nepomuk s.r.o.
+
+> Czech family-owned engineering and metalworking manufacturer founded in 1927 (celebrating 100 years in 2027), producing custom DIN containers, commercial truck bodies and bespoke steel structures in Záhoří near Nepomuk for the Czech Republic, Germany, the Netherlands, France and Austria.
+
+## Core Facts
+- **Company:** KOVO-HOLUB Nepomuk s.r.o. (Company ID: 26364891, VAT: CZ26364891)
+- **Founded:** 1927 (3rd generation family leadership — František & Jan Holub)
+- **Location:** Záhoří 38, 335 01 Nepomuk, Czech Republic (49.459858, 13.615386)
+- **Certifications & Norms:** ISO 9001, TÜV, DIN 30722 (Abroll), DIN 30720, certified visual weld inspection & towbar installation
+- **Track Record:** 1,400+ completed B2B orders (clients include Eurovia, TSR Czech Republic, Faiveley Transport, RTS Nederland, ENGL Maschinen, Klaus Timber)
+- **Key CNC Machinery:** Bystronic Hämmerle 150 3P CNC press brake (3000 mm / 160 t), 3m CNC guillotine shears (1–10 mm), 2m shears (12 mm), Pegas 300×320 SHI-LR band saw, MIG/TIG stainless & aluminium welding, shot blasting booths
+- **Contact:** +420 602 237 112 / +420 371 591 644 · f.holub@kovo-holub.cz
+
+## Czech Pages (CS)
+- [Domů](https://kovo-holub.cz/): Přehled výroby, Facebook feed, reference a kontakty
+- [Kontejnery](https://kovo-holub.cz/kontejnery.html): Abroll dle DIN 30722 (5–40 m³), hákové, řetězové, velkoobjemové, termokontejnery, nosiče, 2letá záruka
+- [Nástavby na nákladní automobily](https://kovo-holub.cz/nastavby.html): Valníkové, plachtové s potiskem loga, skříňové, chladírenské, sklápěcí, Palcom/Palfix, hydraulická čela a servis
+- [Kovovýroba na zakázku](https://kovo-holub.cz/kovovyroba.html): Ocelové konstrukce, schodiště, zábradlí, vrata, přístřešky a přehled CNC strojního parku
+- [O firmě](https://kovo-holub.cz/o-firme.html): Historie od 1927, časová osa, certifikáty ISO/TÜV, kariéra
+- [100 let (1927–2027)](https://kovo-holub.cz/100-let.html): Výroční kampaň, příběh tří generací a materiály pro partnery a média
+- [Reference](https://kovo-holub.cz/reference.html): Přes 1400 zakázek, seznam klientů a fotogalerie realizací
+- [Aktuality](https://kovo-holub.cz/aktuality.html): Nové stroje a novinky z výroby
+- [Kontakt a poptávka](https://kovo-holub.cz/kontakt.html): Poptávkový formulář, GPS, mapa a fakturační údaje
+
+## English Pages (EN)
+- [Home](https://kovo-holub.cz/en/): Company overview, references, manufacturing divisions
+- [Custom Containers](https://kovo-holub.cz/en/containers.html): Abroll DIN 30722, hook-lift, chain skip, thermal, high-volume containers & carriers
+- [Truck Bodies](https://kovo-holub.cz/en/truck-bodies.html): Dropside, curtainsider, box/reefer, tipper, Palcom/Palfix & service
+- [Custom Metalwork](https://kovo-holub.cz/en/metalwork.html): Bespoke steelwork, staircases, gates and CNC machinery park
+- [About Us](https://kovo-holub.cz/en/about.html): Family history since 1927, ISO 9001 & TÜV certificates
+- [100 Years (1927–2027)](https://kovo-holub.cz/en/100-years.html): Centenary campaign and Partner & Media Press Kit
+- [References](https://kovo-holub.cz/en/references.html): 1,400+ completed projects across Europe
+- [News](https://kovo-holub.cz/en/news.html): Machinery upgrades and company announcements
+- [Contact & Quote](https://kovo-holub.cz/en/contact.html): Export RFQ form and factory details

@@ -1,0 +1,10 @@
+.claude
+.git
+.DS_Store
+*.md
+!llms.txt
+obrazky-url.txt
+podklady-drive
+.env*
+.vercel
+api
